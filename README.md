@@ -12,9 +12,6 @@ In this course, Envato Tuts+ instructor Jeremy McPeak will teach you one of the 
 This repository contains the source to each exercise and sample project that was built throughout the course.
 
 
-## 3rd-Party Content
-
-The following [] are sourced from [] and licensed under Creative Commons [CC BY-2.0](https://creativecommons.org/licenses/by/2.0/) or [CC BY-SA-2.0](https://creativecommons.org/licenses/by-sa/2.0/).
 
 ------
 
